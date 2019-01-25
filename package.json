@@ -1,0 +1,26 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "task for ITB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavel-Fill/taskITB.git"
+  },
+  "author": "Barko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavel-Fill/taskITB/issues"
+  },
+  "homepage": "https://github.com/Pavel-Fill/taskITB#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^4.0.0"
+  },
+  "dependencies": {
+    "gulp-less": "^4.0.1"
+  }
+}

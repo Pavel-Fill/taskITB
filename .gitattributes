@@ -1,0 +1,16 @@
+#forse text
+*.html text
+.js text
+.css text
+
+#windows files
+*.sln text eol=crlf
+*.bat eol=crlf
+
+#unix files
+*.sh eol=lf
+
+#binary files
+*.jpg -text
+*.gif -text
+*.png -text
